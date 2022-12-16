@@ -1,0 +1,37 @@
+body {
+    background-color: lightgray;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 0, 157);
+    font-size: medium;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: black;
+}
+
+h1 {text-decoration: underline;}
+
+.centertext {
+    text-align: center;
+    display: block;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+li {
+    font-size: medium;
+    font-weight: normal;
+}
